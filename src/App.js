@@ -12,6 +12,8 @@ function App() {
       <form>
         <input type='text' placeholder='Enter text here' />
         <button>Click Me</button>
+        <button>Reset</button>
+        <button>Delete</button>
       </form>
     </div>
     </div>
