@@ -14,6 +14,9 @@ function App() {
         <button>Click Me</button>
         <button>Reset</button>
         <button>Delete</button>
+        <button>Update</button>
+        <button>Save</button> 
+        
       </form>
     </div>
     </div>
